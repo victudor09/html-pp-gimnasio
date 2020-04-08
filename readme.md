@@ -12,9 +12,9 @@ Después de ver un vídeo de motivación del gran [Emilio Duró](https://youtu.b
 
 ## Requisitos ##
 
-:gears: Editor de texto.
+:gear: Editor de texto.
 
-:gears: Plugin con livereload
+:gear: Plugin con livereload
 
 ## Iteraciones ##
 
